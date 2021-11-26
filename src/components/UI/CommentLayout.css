@@ -1,0 +1,9 @@
+.container {
+    width: 300px;
+    border:1px solid black;
+}
+
+.comments {
+    margin: 50px;
+    border: 1px solid green;
+}
